@@ -2,7 +2,7 @@ import React from "react";
 function Sidebar() {
   return (
     <>
-      <div className="d-flex flex-column justify-content-between align-items-center align-items-sm-start px-3 text-white">
+      <div className="d-flex flex-column justify-content-between align-items-center align-items-sm-start px-3 pt-1 text-white">
                 <ul
                   className="nav nav-pills flex-column mb-sm-auto mb-0  align-items-sm-start"
                   id="menu"
