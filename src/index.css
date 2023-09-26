@@ -1,0 +1,44 @@
+
+.dashboard{
+  background-color: #fbf8f8;
+  color:#000000;
+  font-family: Poppins, 'Source Sans Pro';
+  font-size: 1.6rem;
+  font-weight: 400;
+}
+.nav-item{
+    color: #0b63f8;
+    flex-shrink: 0;
+    font-family: Poppins;
+    font-size: 1.6rem;
+    font-weight: 400;
+    letter-spacing: 0.032rem;
+    padding-top: 7px;
+    white-space: nowrap;
+  
+}
+.act{
+  font-size: 1.2rem;
+}
+.font{
+  background-color: #fbf8f8;
+  color:#000000;
+  font-family: Poppins, 'Source Sans Pro';
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.table{
+  margin-top: 40px;
+}
+.thead{
+  vertical-align: middle !important;
+}
+
+.active{
+  color:grey;
+  font-size: 1.2rem;
+}
+.search{
+  width: 45vw !important;
+}
